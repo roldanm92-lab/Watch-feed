@@ -1,0 +1,11 @@
+{
+  "updated": "2026-10-19T07:35:00-04:00",
+  "tweets": [
+    {
+      "name": "Watch Feed",
+      "handle": "setup",
+      "time": "now",
+      "text": "Setup works! Your real feed will replace this post once it's pulled from X."
+    }
+  ]
+}
